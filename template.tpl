@@ -9,7 +9,7 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Firework Video Official",
+  "displayName": "Firework Video",
   "categories": ["ANALYTICS", "Analytics"],
   // additional template properties, etc...
 },
@@ -17,7 +17,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Firework Video Official",
+  "displayName": "Firework Video",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
