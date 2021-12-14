@@ -1,5 +1,5 @@
 homepage: "https://firework.tv"
 documentation: "https://clickmaximus.com/Firework"
 versions:
- - sha: 6c061cc4445a2e6d20e8d5dfbcd5ef019e17c57d
+ - sha: 5683fcc89b00d61605b1f3e5113ed8e35ae9ceac
     changeNotes: Initial release.
