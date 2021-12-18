@@ -12,7 +12,6 @@ ___INFO___
   "displayName": "Firework Video",
   "categories": ["ANALYTICS", "Analytics"],
   // additional template properties, etc...
-},
   "type": "TAG",
   "id": "cvt_temp_public_id",
   "version": 1,
